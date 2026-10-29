@@ -1,0 +1,15 @@
+{
+  "name": "Space Geometry Simulation - Prof. Mohanad Al-Hanawi",
+  "short_name": "Space Geometry",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
